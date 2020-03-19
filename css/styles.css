@@ -1,0 +1,131 @@
+#addDriver
+{
+  border-radius: 20px;
+  margin-left: 90%;
+  margin-top: 0;
+  font-weight: bold;
+}
+#heading
+{
+  margin-top: -23px;
+  font-weight: bold;
+}
+.search-container button
+{
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+#search input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+#save
+{
+  margin-top: -5%;
+  width: 20%;
+  border-radius: 20px;
+  float: right;
+}
+#back
+{
+  width: 20%;
+  border-radius: 20px;
+}
+#addVehicle
+{
+  border-radius: 20px;
+  margin-left: 90%;
+  margin-top: 0;
+  font-weight: bold;
+}
+#saveVehicle
+{
+  margin-top: -5%;
+  width: 20%;
+  border-radius: 20px;
+  float: right;
+}
+#backVehicle
+{
+  width: 20%;
+  border-radius: 20px;
+}
+h3
+{
+  text-align: center;
+}
+#drive1
+{
+  background-color: #ADD8E6;
+  border-radius: 10px;
+  width: 49%;
+}
+#drive2
+{
+  background-color: #ADD8E6;
+  border-radius: 10px;
+  width: 49%;
+  margin-left: 4px;
+}
+#drive3
+{
+  background-color: #566D7E;
+  border-radius: 10px;
+}
+#displayDrivers
+{
+  overflow-x: scroll;
+}
+#displayVehicles
+{
+  overflow-x: scroll;
+}
+#displayDrivers table
+{
+  margin-left: 4%;
+}
+#displayVehicles table
+{
+  margin-left: 4%;
+}
+#pxLeft
+{
+  margin-left: 55px;
+}
+#bac
+{
+  width: 20%;
+  border-radius: 20px;
+}
+#sav
+{
+  margin-left: 55%;
+  width: 20%;
+  border-radius: 20px;
+}
+select
+{
+  width: 100%;
+  font-size: 20px;
+  text-align: center;
+}
+#pxLeft1
+{
+  margin-left: 55px;
+  font-size: 20px;
+}
+#displayAssignments
+{
+  overflow-x: scroll;
+}
+#displayAssignments table
+{
+  margin-left: 4%;
+}
